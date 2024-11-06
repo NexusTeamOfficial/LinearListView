@@ -11,7 +11,7 @@ Gradle:
 
 ```groovy
 dependencies {
-  compile 'com.github.frankiesardo:linearlistview:1.0.1@aar'
+  compile 'com.github.frankiesardo:linearlistview:1.0.1'
 }
 ```
 
